@@ -10,5 +10,7 @@ BASIC ROUTER SETUP:
 
 CONTEXT API
 1. Declare a context
-2. Set Provider
+2. set provider with value
+3. use context
+4. 
 */

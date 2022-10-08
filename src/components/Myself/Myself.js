@@ -1,14 +1,14 @@
 import React from "react";
 import Special from "../Special/Special";
 
-const Myself = ({ house, dimondRing }) => {
+const Myself = ({ house }) => {
   return (
     <div>
       <h1>Myself components</h1>
       <p>
         <small>House: {house}</small>
       </p>
-      <Special house={house} dimondRing={dimondRing}></Special>
+      <Special house={house}></Special>
     </div>
   );
 };
