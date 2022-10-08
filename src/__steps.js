@@ -7,4 +7,8 @@ BASIC ROUTER SETUP:
 5.create Main layout with some common part and one changing part besed on the route
 6. set children routes
 7. set links on the Header components
+
+CONTEXT API
+1. Declare a context
+2. Set Provider
 */
